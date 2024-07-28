@@ -1,0 +1,20 @@
+void main ()
+{
+ var city=['chittagong','Dhaka','Khulna'];
+ var city2=['rajshashi'];
+ var result=city.first;
+ print(result);
+ var result2=city.length;
+ print(result2);
+ var result3=city.isEmpty;
+ print(result3);
+ var result4=city.isNotEmpty;
+ print(result4);
+ var result5=city.last;
+ print(result5);
+ var result6=city.reversed;
+ print(result6);
+ var result7=city2.single;
+ print(result7);
+
+}
